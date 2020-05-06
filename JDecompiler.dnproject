@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="lonad" authorOS="Windows 10" createdAt="1588716198086" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="JDecompiler" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1588734086492">
+  <tree>
+    <expanded>
+    <path src=""/>
+      <path src="/build"/>
+      <path src="/build/dist"/>
+      <path src="/src"/>
+      <path src="/src/.data"/>
+      <path src="/src/.theme"/>
+      <path src="/src/app"/>
+      <path src="/src/app/forms"/>
+      <path src="/src/app/modules"/>
+      <path src="/vendor"/>
+      <path src="/vendor/develnext.bundle.zip.ZipBundle"/>
+      <path src="/vendor/develnext.bundle.zip.ZipBundle/bundle"/>
+      <path src="/vendor/develnext.bundle.zip.ZipBundle/bundle/zip"/>
+    </expanded>
+  </tree>
+  <openedFiles>
+  <file src="JDecompiler.dnproject"/>
+    <file selected="1" src="src/app/modules/AppModule.php"/>
+  </openedFiles>
+  <files/>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\JavaPlatformBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\BackupProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+  </behaviours>
+</project>
